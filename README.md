@@ -18,7 +18,7 @@ Operational excellence - particularly **Issue Resolution Time** - is the stronge
 Improving support operations yields an estimated **$33K-$47K LTV uplift per customer**, with potential revenue impact exceeding **$46M** under realistic migration scenarios.
 
 ## Repository Structure
-data/-> Original dataset as obtained from the source (csv)
+data/-> Original dataset as obtained from the source (Kaggle; csv)
 
 reports/-> Final written report (PDF)
 
