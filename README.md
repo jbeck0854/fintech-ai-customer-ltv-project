@@ -19,8 +19,11 @@ Improving support operations yields an estimated **$33K-$47K LTV uplift per cust
 
 ## Repository Structure
 data/-> Original dataset as obtained from the source (csv)
+
 reports/-> Final written report (PDF)
+
 slides/-> Final presentation slides (PDF)
+
 notebooks/-> Jupyter notebooks (R scripts for supporting analysis & modeling)
 
 ### Run Order
